@@ -27,4 +27,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![İlkRepo](kodluyoruzilkrepofoto.png)
+
+![İlkRepo](figures/kodluyoruzilkrepofoto.png)
